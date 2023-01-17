@@ -16,4 +16,5 @@ After some cleaning and compiling I exported the scraped data to a csv file. You
 If you are at all interested in this and would like me to me make an auto-updating version of this, scrape some additional information, etc., please don't hesitate to reach out! I would be more than happy to do so.
 
 Email: [j.neenan@columbia.edu](mailto:j.neenan@columbia.edu)
+
 Twitter: [@jakeneenan](https://twitter.com/jakeneenan)
